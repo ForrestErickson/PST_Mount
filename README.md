@@ -8,8 +8,10 @@ Several friends in the Smoky Mountain Astronomical Society, aka **[SMAS](https:/
 I am hoping to help make them easier to use.  
 
 ## CAD Drawing
-![image](https://github.com/ForrestErickson/PST_Mount/assets/5836181/8c401d06-ea90-46a5-85c0-e7669b51d726)
-The telescope in green. The mount parts in grey.
+![PST_Mount_Assy.png](PST_Mount_Assy.png)  
+Made from measurements off a real PST  
+![Measurements.jpeg](Measurements.jpeg)
+
 
 ## Project Summary
 * Drawn in FreeCAD.  
