@@ -3,9 +3,13 @@
 Never make a home made filter out of unknown materials.  
 Galellio was blind at the end of his life. I do not know how he observed sun spots but he did. And he went blind.  
 
-![image](https://github.com/ForrestErickson/PST_Mount/assets/5836181/cf366d21-d2a1-4c73-bfb5-dc7b96e22408)
+## Motivation
 Several friends in the Smoky Mountain Astronomical Society, aka **[SMAS](https://groups.io/g/smokymtnastro)**, have the Coronado PST.   
 I am hoping to help make them easier to use.  
+
+## CAD Drawing
+![image](https://github.com/ForrestErickson/PST_Mount/assets/5836181/8c401d06-ea90-46a5-85c0-e7669b51d726)
+The telescope in green. The mount parts in grey.
 
 ## Project Summary
 * Drawn in FreeCAD.  
