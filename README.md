@@ -8,7 +8,7 @@ Several friends in the Smoky Mountain Astronomical Society, aka **[SMAS](https:/
 I am hoping to help make them easier to use.  
 
 ## CAD Drawing
-![PST_Mount_Assy.png](PST_Mount_Assy.png)  
+![image](https://github.com/ForrestErickson/PST_Mount/assets/5836181/65d3a562-127b-46f3-b961-41c5463731a7)
 Made from measurements off a real PST  
 ![Measurements.jpeg](Measurements.jpeg)
 
