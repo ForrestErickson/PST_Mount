@@ -1,6 +1,10 @@
 # Fabrication Photos
 Personal Solar Telescope Mount.  
 Hoping to get one finished for our next club meeting on 8 March 2024.   
+***Reflections:  ***
+My welding looks better under the slag.  I am way out of practice.  
+I am suspecting that I need a heaver rod. I am using 5/64" rod type E6013.  Welder is set for 55 amps. The steel is 1/8" and so at the "T" joints I am welding 1/4" of material.  
+
 
 ## PaperTemplates to guide fabrication.  
 Apply painters tape and then the Paper Templates glued are gluded to the tape. Removes much easier that way   
@@ -60,3 +64,22 @@ alt="Image of: Stop Turing Alt Bolt"
 width="400">  
 </a>
 
+
+
+## In the Paint Booth
+Prime and paint  
+<a
+href="InPaintBoothPrime.jpg"><img style="border:5px double black"
+src="InPaintBoothPrime.jpg"
+alt="Image of: Priming the the booth."
+width="400">  
+</a>
+
+
+With Silver Paint  
+<a
+href="SilverPaint.jpg"><img style="border:5px double black"
+src="SilverPaint.jpg"
+alt="Image of: brackets in sliver paint."
+width="400">  
+</a>
