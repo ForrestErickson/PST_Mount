@@ -83,3 +83,27 @@ src="SilverPaint.jpg"
 alt="Image of: brackets in sliver paint."
 width="400">  
 </a>
+
+
+## The Wood Working 
+Improvising APE* parts.   
+
+Rough Wood Work Side View  
+<a
+href="RougWoodWorkSide.jpg"><img style="border:5px double black"
+src="RougWoodWorkSide.jpg"
+alt="Image of: It is starting to look like the goal."
+width="400">  
+</a>
+(* Available Parts Engineering)
+
+
+Going to need to design a latatude block soon  
+<a
+href="RougWoodWorkElevated.jpg"><img style="border:5px double black"
+src="RougWoodWorkElevated.jpg"
+alt="Image of: Side view with temporary eleviation block."
+width="400">  
+</a>  
+Side view with temporary eleviation block.
+
