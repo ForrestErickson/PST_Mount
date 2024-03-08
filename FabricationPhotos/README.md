@@ -6,12 +6,12 @@ My welding looks better under the slag.  I am way out of practice.
 I am suspecting that I need a heaver rod. I am using 5/64" rod type E6013.  Welder is set for 55 amps. The steel is 1/8" and so at the "T" joints I am welding 1/4" of material.  
 
 
-## PaperTemplates to guide fabrication.  
-Apply painters tape and then the Paper Templates glued are gluded to the tape. Removes much easier that way   
+## Paper Templates to guide fabrication.  
+Apply painters tape and then the Paper Templates glued are glued to the tape. Removes much easier that way   
 <a
 href="PaperTemplates.jpg"><img style="border:5px double black"
 src="PaperTemplates.jpg "
-alt="Image of: Apply painters tape and then the Paper Templates glued are gluded to the tape. Removes much easier that way "  
+alt="Image of: Apply painters tape and then the Paper Templates glued are glued to the tape. Removes much easier that way."  
 width="400">  
 </a>
   
@@ -20,16 +20,16 @@ First 1/8 inch at high speed, 2700 RMP.   Then 1/4 inch at 1700 RPM.
 <a
 href="DrillingPilotHoles.jpg"><img style="border:5px double black"
 src="DrillingPilotHoles.jpg"
-alt="Image of: Drilling Pilot Holes on drill press"
+alt="Image of: Drilling Pilot Holes on drill press."
 width="400">  
 </a>
 
 ## Grind Radius  
-I first removed most of the material with the hand held angle grinder and cuttoff wheel. Finished creeping up to the line with a belt sander at 80 grit then 120 grit. Wish I had 240 grit belts.  
+I first removed most of the material with the hand held angle grinder and cutoff wheel. Finished creeping up to the line with a belt sander at 80 grit then 120 grit. Wish I had 240 grit belts.  
 <a
 href="GrindRadius.jpg"><img style="border:5px double black"
 src="GrindRadius.jpg"
-alt="Image of: Grind Radius with belt sander"
+alt="Image of: Grind Radius with belt sander."
 width="400">  
 </a>
 
@@ -40,7 +40,7 @@ The 90 degree magnets help a lot.
 <a
 href="WeldingSetup.jpg"><img style="border:5px double black"
 src="WeldingSetup.jpg"
-alt="Image of: Welding Setup"
+alt="Image of: Welding Setup."
 width="400">  
 </a>
 
@@ -51,7 +51,7 @@ The 90 degree magnets help a lot.
 <a
 href="MakingWelds.jpg"><img style="border:5px double black"
 src="MakingWelds.jpg"
-alt="Image of: Making Welds"
+alt="Image of: Making Welds."
 width="400">  
 </a>
 
@@ -60,7 +60,7 @@ A stop to prevent turning of the altitude lock bold.
 <a
 href="StopTuringAltBolt.jpg"><img style="border:5px double black"
 src="StopTuringAltBolt.jpg"
-alt="Image of: Stop Turing Alt Bolt"
+alt="Image of: Stop Turing Alt Bolt."
 width="400">  
 </a>
 
@@ -86,7 +86,7 @@ width="400">
 
 
 ## The Wood Working 
-Improvising APE* parts.   
+Improvising, the APE* parts.   
 
 Rough Wood Work Side View  
 <a
@@ -98,12 +98,34 @@ width="400">
 (* Available Parts Engineering)
 
 
-Going to need to design a latatude block soon  
+Going to need to design a latitude block soon  
 <a
 href="RougWoodWorkElevated.jpg"><img style="border:5px double black"
 src="RougWoodWorkElevated.jpg"
 alt="Image of: Side view with temporary eleviation block."
 width="400">  
 </a>  
-Side view with temporary eleviation block.
+Side view with temporary elevation block.
+
+
+## Final Assembly
+It is taking shape.  The skies will never clear.
+
+An isometric view  
+<a
+href="WithWedgeIso.jpg"><img style="border:5px double black"
+src="WithWedgeIso.jpg"
+alt="Image of: an isometric view."
+width="400">  
+</a>
+
+
+A side view  
+<a
+href="WithWedgeSide.jpg"><img style="border:5px double black"
+src="WithWedgeSide.jpg"
+alt="Image of: side view."
+width="400">  
+</a>
+
 
