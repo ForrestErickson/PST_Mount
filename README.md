@@ -12,6 +12,15 @@ I am hoping to help make them easier to use.
 Made from measurements off a real PST  
 ![Measurements.jpeg](Measurements.jpeg)
 
+## Prototype
+An isometric view of  
+<a
+href="FabricationPhotos/WithWedgeIso.jpg"><img style="border:5px double black"
+src="FabricationPhotos/WithWedgeIso.jpg"
+alt="Image of: an isometric view."
+width="400">  
+</a>
+
 
 ## Project Summary
 * Drawn in FreeCAD.  
