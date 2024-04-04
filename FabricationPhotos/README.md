@@ -119,7 +119,6 @@ alt="Image of: an isometric view."
 width="400">  
 </a>
 
-
 A side view  
 <a
 href="WithWedgeSide.jpg"><img style="border:5px double black"
@@ -128,4 +127,13 @@ alt="Image of: side view."
 width="400">  
 </a>
 
+Similar with paint  
+![image](https://github.com/ForrestErickson/PST_Mount/assets/5836181/51bfb247-be08-431e-8b77-425a8f192ff8)
+
+An innovation this morning (20240403).  
+Retention feature for telescope mounting screw.  
+Cut from a Landry detergent bottle.
+Note this retention requires the rubber feet be thicker than the retention washer. 
+![image](https://github.com/ForrestErickson/PST_Mount/assets/5836181/4962cc7f-9d37-4d52-b4cb-7aea905d08a0)  
+I drilled one size under 1/4" and made four cuts.
 
