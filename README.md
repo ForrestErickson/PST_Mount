@@ -1,7 +1,7 @@
 # Mount for Personal Solar Telescope
-**WARNING NEVER LOOK AT THE SUN THROUGH A TELESCOPE, BINOCULARS, NAKED EYE, unless you have a known safe solar filter and you know how to use it.**  
+**WARNING NEVER LOOK AT THE SUN THROUGH A TELESCOPE, BINOCULARS, NAKED EYE, unless you have a known safe solar filter and you know how to use it.** 
 Never make a home made filter out of unknown materials.  
-Galellio was blind at the end of his life. I do not know how he observed sun spots but he did. And he went blind.  
+Galileo was blind at the end of his life. I do not know how he observed sun spots, but he did. And he went blind. 
 
 ## Motivation
 Several friends in the Smoky Mountain Astronomical Society, aka **[SMAS](https://groups.io/g/smokymtnastro)**, have the Coronado PST.   
@@ -23,13 +23,15 @@ width="400">
 
 
 ## Project Summary
-* Drawn in FreeCAD.  
-* Drawing for the PST (Personal Solar Telescope) is only from a side view photograph and will not be accurate.  
-* The size of the base is arbitraraly based on a 254 mm (10") disk about 12.5mm (1/2") thick.  Base set for latude near Maryville TN of 35.5 Degrees.  
-* Right Assention Pin is 1/2" (About 25/4 /2 mm).  
+* Drawn in FreeCAD and using A2Plus work bench.  
+* Drawing for the PST (Personal Solar Telescope) is only from a side view photograph and will not be accurate.  A part was 3D printed to help with my trial and error fabrication and iterative design.  
+* The size of the base is arbitrarily based on a 254 mm (10") disk (Hexagon) about 12.5 mm (1/2") thick.  Base set for latitude near Maryville TN of 35.5 Degrees.
+* Right Assention Pin is 1/4" (About 25.4 /4 mm).
+* Before the 20240408 solar eclipse I fabricated four of these and got three into the hands of PST users so that they might benifit during the eclipse.  
+
 
 
 ## License and Warranty
   **License**: This project and files are dedicated and released to the public domain.  
-  **Warranty:** This project and files are designed to kill you and render the earth uninhabitible, however they not guarenteed to do so.
+  **Warranty:** This project and files are designed to kill you and render the earth uninhabitable, however they not guaranteed to do so.
 
